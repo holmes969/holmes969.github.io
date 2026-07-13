@@ -1,0 +1,14 @@
+employment:
+  - company: Organization
+    position: Title
+    location: City, State
+    start_date: YYYY-MM
+    end_date: present
+    highlights:
+      - Short description.
+
+award:
+  - title: Award Name
+    date: YYYY
+    awarder: Organization
+    location: Location

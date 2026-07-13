@@ -1,0 +1,347 @@
+cv:
+  name: Cheng Zhang
+  label: Research Scientist
+  email: zhangchengee@gmail.com
+  website: https://holmes969.github.io/
+  location: Redmond, WA
+  image: cheng_zhang_profile.jpg
+  summary: Research scientist at Meta Reality Labs working on physics-based rendering, inverse rendering, differentiable rendering, and analysis by synthesis.
+
+  social_networks: []
+
+  sections:
+    Employment:
+      - company: Meta Reality Labs
+        position: Research Scientist
+        location: Redmond, WA
+        start_date: 2022-07
+        end_date: present
+        highlights:
+          - Computer graphics research, including differentiable rendering, inverse rendering, and 3D reconstruction.
+
+      - company: NVIDIA Corporation
+        position: Research Intern, Applied Deep Learning Research Group
+        location: Remote
+        start_date: 2021-06
+        end_date: 2021-11
+        highlights:
+          - Differentiable rendering on GPU.
+
+      - company: Facebook Reality Labs
+        position: Research Intern, Graphics Group
+        location: Redmond, WA
+        start_date: 2019-06
+        end_date: 2019-09
+        highlights:
+          - 3D reconstruction and differentiable rendering.
+
+      - company: Robert Bosch LLC
+        position: Motion Capture and Recognition Intern, HMI Group
+        location: Sunnyvale, CA
+        start_date: 2018-06
+        end_date: 2018-09
+        highlights:
+          - Automatic cycle detection and similarity evaluation of time series data.
+
+      - company: Robert Bosch LLC
+        position: Graphics Research Intern, HMI Group
+        location: Palo Alto, CA
+        start_date: 2017-05
+        end_date: 2017-08
+        highlights:
+          - Building footprint determination for real-time shadow generation.
+
+      - company: Columbia University
+        position: Graduate Research Assistant, Computer Graphics Group
+        location: New York, NY
+        start_date: 2016-06
+        end_date: 2017-04
+        highlights:
+          - Text editing and information embedding.
+
+    Education:
+      - institution: University of California, Irvine
+        area: Computer Science
+        studyType: Ph.D.
+        location: Irvine, CA
+        start_date: 2017-09
+        end_date: 2022-07
+        highlights:
+          - "Supervisor: Prof. Shuang Zhao"
+
+      - institution: Columbia University in the City of New York
+        area: Computer Science
+        studyType: M.S.
+        location: New York, NY
+        start_date: 2015-09
+        end_date: 2017-02
+        highlights:
+          - "GPA: 3.97/4.0"
+
+      - institution: Beijing University of Technology
+        area: Electronics Information Engineering
+        studyType: B.E.
+        location: Beijing, China
+        start_date: 2011-09
+        end_date: 2015-06
+        highlights:
+          - "GPA: 3.74/4.0"
+          - Exchange student at University of Illinois at Chicago during senior year.
+
+    Awards:
+      - title: ACM SIGGRAPH Outstanding Doctoral Dissertation Award
+        date: 2023
+        awarder: ACM SIGGRAPH
+        location: Worldwide
+
+      - title: Facebook Fellowship
+        date: 2021
+        awarder: Facebook Research
+        location: Worldwide
+
+      - title: Beichuan Academic Scholarship
+        date: 2013
+        awarder: Beijing University of Technology
+
+      - title: Academic Excellence Award
+        date: 2011-2014
+        awarder: Beijing University of Technology
+
+    Publications:
+      - title: Image-space Adaptive Sampling for Fast Inverse Rendering
+        authors:
+          - Kai Yan
+          - Cheng Zhang
+          - Sébastien Speierer
+          - Guangyan Cai
+          - Yufeng Zhu
+          - Zhao Dong
+          - Shuang Zhao
+        publisher: ACM Transactions on Graphics (SIGGRAPH)
+        releaseDate: 2025
+
+      - title: "LIRM: Large Inverse Rendering Model for Progressive Reconstruction of Shape, Materials and View-dependent Radiance Fields"
+        authors:
+          - Zhengqin Li
+          - Dilin Wang
+          - Ka Chen
+          - Zhaoyang Lv
+          - Thu Nguyen-Phuoc
+          - Milim Lee
+          - Jia-Bin Huang
+          - Lei Xiao
+          - Cheng Zhang
+          - Yufeng Zhu
+          - Carl S Marshall
+          - Yuheng Ren
+          - Richard Newcombe
+          - Zhao Dong
+        publisher: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+        releaseDate: 2025
+
+      - title: "Digital Twin Catalog: A Large-scale Photorealistic 3D Object Digital Twin Dataset"
+        authors:
+          - Zhao Dong
+          - Ka Chen
+          - Zhaoyang Lv
+          - Hong-Xing Yu
+          - Yunzhi Zhang
+          - Cheng Zhang
+          - Yufeng Zhu
+          - Stephen Tian
+          - Zhengqin Li
+          - Geordie Moffatt
+          - Sean Christofferson
+          - James Fort
+          - Xiaqing Pan
+          - Mingfei Yan
+          - Jiajun Wu
+          - Carl Yuheng Ren
+          - Richard Newcombe
+        publisher: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+        releaseDate: 2025
+
+      - title: Estimating Uncertainty in Appearance Acquisition
+        authors:
+          - Zhiqian Zhou
+          - Cheng Zhang
+          - Zhao Dong
+          - Carl Marshall
+          - Shuang Zhao
+        publisher: Eurographics Symposium on Rendering (EGSR)
+        releaseDate: 2024
+
+      - title: "TextureDreamer: Image-Guided Texture Synthesis Through Geometry-Aware Diffusion"
+        authors:
+          - Yu-Ying Yeh
+          - Jia-Bin Huang
+          - Changil Kim
+          - Lei Xiao
+          - Thu Nguyen-Phuoc
+          - Numair Khan
+          - Cheng Zhang
+          - Manmohan Chandraker
+          - Carl S Marshall
+          - Zhao Dong
+          - Zhengqin Li
+        publisher: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+        releaseDate: 2024
+
+      - title: Efficient Path-Space Differentiable Volume Rendering With Respect To Shapes
+        authors:
+          - Zihan Yu
+          - Cheng Zhang
+          - Olivier Maury
+          - Christophe Hery
+          - Zhao Dong
+          - Shuang Zhao
+        publisher: Computer Graphics Forum (Eurographics Symposium on Rendering)
+        releaseDate: 2023
+        url: https://shuangz.com/projects/psdr-vol2-egsr23/
+
+      - title: Neural-PBIR Reconstruction of Shape, Material, and Illumination
+        authors:
+          - Cheng Sun
+          - Guangyan Cai
+          - Zhengqin Li
+          - Kai Yan
+          - Cheng Zhang
+          - Carl Marshall
+          - Jia-Bin Huang
+          - Shuang Zhao
+          - Zhao Dong
+        publisher: International Conference on Computer Vision (ICCV)
+        releaseDate: 2023
+        url: https://neural-pbir.github.io/
+
+      - title: "SAM-RL: Sensing-Aware Model-Based Reinforcement Learning via Differentiable Physics-Based Simulation and Rendering"
+        authors:
+          - Jun Lv
+          - Yunhai Feng
+          - Cheng Zhang
+          - Shuang Zhao
+          - Lin Shao
+          - Cewu Lu
+        publisher: "Robotics: Science and Systems (Best System Paper Award Finalist)"
+        releaseDate: 2023
+        url: https://sites.google.com/view/rss-sam-rl/
+
+      - title: Efficient Differentiation of Pixel Reconstruction Filters for Path-Space Differentiable Rendering
+        authors:
+          - Zihan Yu
+          - Cheng Zhang
+          - Derek Nowrouzezahrai
+          - Zhao Dong
+          - Shuang Zhao
+        publisher: ACM Transactions on Graphics (SIGGRAPH Asia)
+        releaseDate: 2022
+        url: https://shuangz.com/projects/psdr-pixel-sa22/
+
+      - title: Antithetic Sampling for Monte Carlo Differentiable Rendering
+        authors:
+          - Cheng Zhang
+          - Zhao Dong
+          - Michael Doggett
+          - Shuang Zhao
+        publisher: ACM Transactions on Graphics (SIGGRAPH)
+        releaseDate: 2021
+        url: https://shuangz.com/projects/antithetic-sg21/
+
+      - title: Path-Space Differentiable Rendering of Participating Media
+        authors:
+          - Cheng Zhang
+          - Zihan Yu
+          - Shuang Zhao
+        publisher: ACM Transactions on Graphics (SIGGRAPH)
+        releaseDate: 2021
+        url: https://shuangz.com/projects/psdr2-sg21/
+
+      - title: Path-Space Differentiable Rendering
+        authors:
+          - Cheng Zhang
+          - Bailey Miller
+          - Kai Yan
+          - Ioannis Gkioulekas
+          - Shuang Zhao
+        publisher: ACM Transactions on Graphics (SIGGRAPH)
+        releaseDate: 2020
+        url: https://shuangz.com/projects/psdr-sg20/
+
+      - title: Multi-Scale Appearance Modeling of Granular Materials with Continuously Varying Grain Properties
+        authors:
+          - Cheng Zhang
+          - Shuang Zhao
+        publisher: Eurographics Symposium on Rendering (EGSR)
+        releaseDate: 2020
+        url: https://shuangz.com/projects/stocmed-egsr20/
+
+      - title: A Differential Theory of Radiative Transfer
+        authors:
+          - Cheng Zhang
+          - Lifan Wu
+          - Changxi Zheng
+          - Ioannis Gkioulekas
+          - Ravi Ramamoorthi
+          - Shuang Zhao
+        publisher: ACM Transactions on Graphics (SIGGRAPH Asia)
+        releaseDate: 2019
+        url: https://shuangz.com/projects/dtrt-sa19/
+
+      - title: "FontCode: Embedding Information in Text Documents using Glyph Perturbation"
+        authors:
+          - Chang Xiao
+          - Cheng Zhang
+          - Changxi Zheng
+        publisher: ACM Transactions on Graphics (presented at SIGGRAPH)
+        releaseDate: 2018
+        url: http://www.cs.columbia.edu/cg/fontcode/
+
+    Skills:
+      - name: Programming
+        keywords: C, C++, Python, Matlab, TeX, CUDA
+
+      - name: Software and Applications
+        keywords: Mitsuba, PyTorch, Unity3D, Blender, OptiX
+
+    Patents:
+      - title: Systems and methods for steganography based on text fonts
+        authors:
+          - Changxi Zheng
+          - Chang Xiao
+          - Cheng Zhang
+        publisher: US Patent 10,755,375
+        url: https://patents.google.com/patent/US10755375B2/en
+
+      - title: Method and device for efficient building footprint determination
+        authors:
+          - Lincan Zou
+          - Liu Ren
+          - Zeng Dai
+          - Cheng Zhang
+        publisher: US Patent 10,553,025
+        url: https://patents.google.com/patent/US10553025B2/en
+
+    Service:
+      - title: ACM SIGGRAPH, ACM SIGGRAPH Asia
+        date: 2025
+        summary: Reviewer
+
+      - title: ACM SIGGRAPH, ACM SIGGRAPH Asia, EGSR
+        date: 2024
+        summary: Reviewer
+
+      - title: Nature Scientific Reports, ACM SIGGRAPH Asia, Pacific Graphics
+        date: 2023
+        summary: Reviewer
+
+      - title: ACM SIGGRAPH
+        date: 2022
+        summary: Reviewer
+
+      - title: ACM SIGGRAPH, Computer Graphics Forum
+        date: 2021
+        summary: Reviewer
+
+      - title: ACM SIGGRAPH Asia
+        date: 2020
+        summary: Reviewer
